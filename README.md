@@ -1,5 +1,7 @@
 Microsoft Movie Studio EDA
 
+![alt text](image-1.png)
+
 Project Overview
 
 For this project, we conducted exploratory data analysis to generate insights for Microsoft as they venture into the movie industry. By analyzing data from various sources, we aimed to provide valuable recommendations to help Microsoft make informed decisions in their movie production endeavors.
@@ -22,6 +24,12 @@ Our analysis yields compelling results that shed light on key trends and correla
 Furthermore, our findings reveal that movies with higher domestic earnings tend to garner proportionally higher foreign earnings, underscoring the importance of domestic market performance in driving overall profitability. 
 Additionally, we delve into the relationship between viewer ratings and votes, providing valuable insights into audience perceptions and engagement levels.
 
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 
 Conclusions
 
@@ -37,7 +45,7 @@ Moving forward, we advocate for further analysis to delve deeper into audience p
 
 Thank You
 
-This comprehensive presentation has been prepared by Jacinta Chepkemoi, leveraging data-driven insights to inform strategic decision-making in movie production. For any further inquiries or collaborations, please feel free to reach out on LinkedIn. We look forward to the opportunity to collaborate and drive innovation in the entertainment industry.
+This comprehensive presentation has been prepared by Jacinta Chepkemoi, leveraging data-driven insights to inform strategic decision-making in movie production. For any further inquiries or collaborations, please feel free to reach out on LinkedIn. I look forward to the opportunity to collaborate and drive innovation in the entertainment industry.
 www.linkedin.com/in/jacinta-chepkemoi-9936b0220
 
 
